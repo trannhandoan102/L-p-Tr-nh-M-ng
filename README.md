@@ -1,2 +1,2 @@
-# L-p-Tr-nh-M-ng
+# LapTrinhMang
 Bài Tập Lớn
